@@ -42777,7 +42777,7 @@ aI:function(){return new F.qu(C.l)}}
 F.qu.prototype={
 GS:function(){this.aH(new F.QF(this))},
 K:function(a,b){var s=null,r=L.NW(this.a.c,s)
-return new M.oR(new E.mv(r,new P.Z(1/0,56),s),T.EH(T.a27(H.d([L.NW("You have pushed the button this many times:",s),L.NW(""+this.d,K.bf(b).Y.d)],t.fQ),C.oB),s,s),E.X7(L.Xj(C.ud),!1,this.gGR(),"Increment it"),s)}}
+return new M.oR(new E.mv(r,new P.Z(1/0,56),s),T.EH(T.a27(H.d([L.NW("Times Pushed:",s),L.NW(""+this.d,K.bf(b).Y.d)],t.fQ),C.oB),s,s),E.X7(L.Xj(C.ud),!1,this.gGR(),"Increment it"),s)}}
 F.QF.prototype={
 $0:function(){++this.a.d},
 $S:3}
